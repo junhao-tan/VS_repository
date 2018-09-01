@@ -1,3 +1,5 @@
+## Example 1-1. Training and running a linear model using Scikit-Learn
+
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
